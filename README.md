@@ -64,7 +64,7 @@ model = Sequential([
     Dense(5, activation='relu'),
     Dense(1)
 ])
-
+```
 ---
 
 # Compile model
